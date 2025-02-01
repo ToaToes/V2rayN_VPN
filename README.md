@@ -10,6 +10,21 @@ https://www.freedidi.com/17434.html
 
 fake personal info generator: <br>
 https://www.fakepersongenerator.com
+```
+Gender: male
+
+Race: White
+
+Birthday: 3/23/1985 (39 years old)
+
+Street: 2444 Archwood Avenue
+
+City, State, Zip: Casper, Wyoming(WY), 82601
+
+Telephone: 307-797-7905
+
+Mobile: 307-377-9386
+```
 
 to solve SSL connection not established: <br>
 https://blog.csdn.net/Habo_/article/details/129203156
