@@ -26,6 +26,14 @@ City, State, Zip: Casper, Wyoming(WY), 82601
 Telephone: 307-797-7905
 
 Mobile: 307-377-9386
+
+
+https://dash.domain.digitalplat.org/auth/register
+
+mrygdjuue@outlook.com
+Qpalzmw0
+
+
 ```
 
 to solve SSL connection not established: <br>
