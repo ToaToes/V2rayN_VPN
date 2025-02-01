@@ -40,3 +40,7 @@ Qpalzmw0
 
 to solve SSL connection not established: <br>
 https://blog.csdn.net/Habo_/article/details/129203156
+
+
+To get IP selection for better ping: <br>
+https://www.freedidi.com/10143.html
