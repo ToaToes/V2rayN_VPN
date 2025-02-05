@@ -1,4 +1,16 @@
+/*
 
+https://www.freedidi.com/17962.html
+
+1. 首选你需要注册一个免费的 Cloudflare 账号: https://dash.cloudflare.com/sign-up
+
+2. 接着你需要准备好 开源软件：V2rayN，因为一会要用到: https://github.com/2dust/v2rayN
+
+3. 在Cloudflare 上创建worker，并填写下面的代码，这个代码来自CM在【 GitHub 】社区的开源项目，代码已经内置IP优选和代理功能，自带动态的UUID，可以大大减少手动配置过程，非常适合新手和特殊用户。
+
+视频教程：https://www.youtube.com/watch?v=DYGu71OaqGI
+
+*/
 
 
 import { connect } from 'cloudflare:sockets';
