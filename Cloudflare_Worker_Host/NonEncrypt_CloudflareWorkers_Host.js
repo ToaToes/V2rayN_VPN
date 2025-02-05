@@ -1,5 +1,8 @@
 /*
 
+Author: cmliu [https://github.com/cmliu]
+edgetunnel project
+
 https://www.freedidi.com/17962.html
 
 1. 首选你需要注册一个免费的 Cloudflare 账号: https://dash.cloudflare.com/sign-up
@@ -8,6 +11,14 @@ https://www.freedidi.com/17962.html
 
 3. 在Cloudflare 上创建worker，并填写下面的代码，这个代码来自CM在【 GitHub 】社区的开源项目，代码已经内置IP优选和代理功能，自带动态的UUID，可以大大减少手动配置过程，非常适合新手和特殊用户。
 
+明文： https://github.com/cmliu/edgetunnel/blob/main/%E6%98%8E%E6%96%87%E6%BA%90%E7%A0%81.js
+加密： https://github.com/cmliu/edgetunnel/blob/main/_worker.js
+
+4、注册一个免费的域名，可以使用零度前几期介绍的注册方法，来获取你自己的免费域名: https://www.freedidi.com/17434.html
+
+当然如果你已经有域名那么更好！
+
+5、如果想获得更多的优质节点，那么推荐使用IP优选网站或优选工具进行获取！: https://www.freedidi.com/10143.html
 视频教程：https://www.youtube.com/watch?v=DYGu71OaqGI
 
 */
