@@ -19,6 +19,7 @@ https://www.freedidi.com/17962.html
 当然如果你已经有域名那么更好！
 
 5、如果想获得更多的优质节点，那么推荐使用IP优选网站或优选工具进行获取！: https://www.freedidi.com/10143.html
+
 视频教程：https://www.youtube.com/watch?v=DYGu71OaqGI
 
 */
