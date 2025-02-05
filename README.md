@@ -33,7 +33,7 @@ https://dash.domain.digitalplat.org/auth/register
 
 JustinRCBH
 mrygdjuue@outlook.com
-Qpalzmw0
+[password]
 
 
 ```
