@@ -46,5 +46,5 @@ To get IP selection for better ping: <br>
 https://www.freedidi.com/10143.html
 
 
-test Cloudflare host speed:
+test Cloudflare host speed: <br>
 https://github.com/XIU2/CloudflareSpeedTest/releases
