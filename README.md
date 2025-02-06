@@ -44,3 +44,7 @@ https://blog.csdn.net/Habo_/article/details/129203156
 
 To get IP selection for better ping: <br>
 https://www.freedidi.com/10143.html
+
+
+test Cloudflare host speed:
+https://github.com/XIU2/CloudflareSpeedTest/releases
